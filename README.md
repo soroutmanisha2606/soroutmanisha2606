@@ -52,9 +52,13 @@
 </div> 
 <br/>  
 
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=soroutmanisha2606&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-
+## 📊 My Github Stats
+  <p align="center">
+    <a href="https://github.com/soroutmanisha2606/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="manisha streak" src="https://github-readme-streak-stats.herokuapp.com/?user=soroutmanisha2606&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+    </a>
+</p>
+  <br/>
 <br/>
 <br/>  
 
