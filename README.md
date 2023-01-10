@@ -66,7 +66,7 @@
 
 <br/>
 <br/>  
-<a href="https://github.com/soroutmanisha2606/github-readme-activity-graph"><img alt="manisha Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Imaryan08&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/soroutmanisha2606/github-readme-activity-graph"><img alt="manisha Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=soroutmanisha2606&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 <br/>
 <br/>
 
