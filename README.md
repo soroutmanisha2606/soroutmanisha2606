@@ -12,8 +12,7 @@
 
 - 👉 Contact with me soroutmanisha12@gmail.com
 
-- ⚡ Fun fact: I use tabs over spaces 
-  
+- ⚡ Fun fact: I use tabs over spaces   
 
 <br/>
 
