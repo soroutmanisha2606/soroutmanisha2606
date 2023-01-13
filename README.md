@@ -67,7 +67,6 @@
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=soroutmanisha2606&&style=flat-square" align="center" />
 </div>  
-  
 
 <br/> 
 <div align="center"></div>
