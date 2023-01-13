@@ -17,8 +17,6 @@
 
 
 
-
-
 ## My Skill Set  
 
 <div>
