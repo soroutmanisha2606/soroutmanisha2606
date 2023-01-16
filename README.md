@@ -58,16 +58,9 @@
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
 <br/>
-<br/>  
-
-<div align="center">
+<br/>  <div align="center">
 <img src="https://komarev.com/ghpvc/?username=soroutmanisha2606&&style=flat-square" align="center" />
 </div>  
-
 <br/> 
 <div align="center"></div>
 <br />
-
-
-
-
