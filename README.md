@@ -9,7 +9,7 @@
 <div align="center">👋I'm Manisha, an aspiring Full-Stack web developer👩‍💻</div>  
 
 
-- 🔭 I’m currently working on development    
+ 
 
 - 🌱 I’m currently learning MERN  
 
