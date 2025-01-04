@@ -6,14 +6,14 @@
  <img  src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRdHoWJuGqjgvoDRF9G8PWAKYEsrItcnk0LA&s" align="center" style="width: 50%"/>  
  
   </div>
-<div align="center">👋I'm Manisha, an aspiring Full-Stack web developer👩‍💻</div>  
+<div align="center">👋I'm Manisha, an Experienced Full-Stack web developer👩‍💻</div>  
 
 
  
 
-- 🌱 I’m currently learning MERN  
+- 🌱 I’m currently learning Exploring new Opportunities  
 
-- 👉 Contact with me soroutmanisha12@gmail.com
+- 👉 Contact with me at soroutmanisha12@gmail.com
 
 - ⚡ Fun fact: I use tabs over spaces   
 
